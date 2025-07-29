@@ -39,7 +39,7 @@ Você pode utilizar de duas formas:
    ```bash
    python consulta_clientes.py
 
-### B) Criando um .exe (para colegas que não têm Python):
+#### B) Criando um .exe (para colegas que não têm Python):
 1.Instale o PyInstaller:
 2. Gere o .exe
 pyinstaller --onefile --windowed consulta_clientes.py
@@ -54,6 +54,8 @@ Valor gasto está nas posições 33 a 47 (15 dígitos, ex: 000000000530340 = R$ 
 CPF/CNPJ está nas posições 74 a 87
 
 Nome/Razão Social nas posições 108 a 181
+
+
 
 ✍️ Autor
 Desenvolvido por Lojuan Bryan com apoio do ChatGPT.
