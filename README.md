@@ -2,29 +2,6 @@
 
 Este projeto permite consultar o valor total gasto por clientes (CPF, CNPJ ou Nome/Razão Social) a partir de um arquivo `.txt` com estrutura fixa (o arquvivo precisa ser igual ao "exemplo_de.txt".
 
-Você pode utilizar de duas formas:
-
----
-
-## 🟩 OPÇÃO 1 — Interface no Google Colab (online)
-
-### ✅ Vantagens:
-- Não precisa instalar nada
-- Interface simples via navegador
-- Ideal para uso pessoal ou testes rápidos
-
-### ▶️ Como usar:
-1. Acesse o consulta_gastos_clientes.ipynb no Google Colab.
-2. Faça upload do arquivo `.txt` clicando no botão de upload
-3. Digite o nome, CPF ou CNPJ do cliente
-4. O notebook mostrará:
-   - Lista de serviços realizados
-   - Total gasto pelo cliente no período
-
----
-
-## 🟦 OPÇÃO 2 — Aplicativo Desktop com Tkinter (offline)
-
 ### ✅ Vantagens:
 - Interface de janela simples (sem terminal)
 - Pode virar `.exe` e ser distribuído para qualquer pessoa
