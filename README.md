@@ -1,6 +1,6 @@
 # 🧾 Consulta de serviços por Cliente (Arquivo .txt)
 
-Este projeto permite consultar o valor total gasto por clientes (CPF, CNPJ ou Nome/Razão Social) a partir de um arquivo `.txt` com estrutura fixa (o arquvivo precisa ser igual ao "exemplo_de.txt".
+Este projeto permite consultar o valor total gasto por clientes (CPF, CNPJ ou Nome/Razão Social) a partir de um arquivo `.txt` com estrutura fixa (o arquivo precisa ser igual ao "exemplo_de.txt".
 
 ### ✅ Vantagens:
 - Interface de janela simples (sem terminal)
